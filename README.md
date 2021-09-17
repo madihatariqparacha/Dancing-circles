@@ -3,4 +3,4 @@
 * SCSS (Styling)
 * Javascript (Functionality)
 ## You can visit site here:
-https://madihaperacha.github.io/dancing-circle/
+https://madihatariqparacha.github.io/Dancing-circles/
